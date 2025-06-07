@@ -2,6 +2,8 @@
 
 Bienvenue sur mon profil GitHub. J'adore coder, apprendre de nouvelles technologies et partager mes projets avec la communauté.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SalmZahri" alt="SalmaZahri" /></a> </p>
+
 ## 🔧 Compétences
 
 - Langages : Python, JavaScript, Java, C++
@@ -25,4 +27,3 @@ N'hésitez pas à me contacter via email : salmazah07@gmail.com
 
 Merci de votre visite ! 🌟
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=github&show_icons=true&theme=radical)
