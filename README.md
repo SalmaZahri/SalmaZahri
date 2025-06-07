@@ -1,4 +1,4 @@
-# Salut, je suis un développeue passionnée ! 👋
+# Salut, je suis une développeuse passionnée ! 👋
 
 Bienvenue sur mon profil GitHub. J'adore coder, apprendre de nouvelles technologies et partager mes projets avec la communauté.
 
